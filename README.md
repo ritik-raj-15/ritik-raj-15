@@ -1,4 +1,4 @@
-![About Me](hey%20there,%20i'm%20ritik%20raj.gif)
+![About Me](ritik.gif)
 
 - 🔭 I’m currently working on MERN STACK
 - 🌱 I’m currently learning and Exploring more about Web
