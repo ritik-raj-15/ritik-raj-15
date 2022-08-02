@@ -1,9 +1,9 @@
 ![About Me](ritik.gif)
 
-- 🔭 I’m currently working on MERN STACK
-- 🌱 I’m currently learning and Exploring more about Web
+- 🔭 I’m currently working on React-Native☸️
+- 🌱 I’m currently learning and Exploring more about React-Native
 - 👯 I’m looking to collaborate on MERN 
-- 💬 Ask me about web-dev
+- 💬 Ask me about web-dev and React-Native
 ## Let's connect on:
 
 <a href="https://www.linkedin.com/in/ritik-raj-0947b9194/">
